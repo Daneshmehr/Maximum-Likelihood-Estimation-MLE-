@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.stats import norm
 import matplotlib.pyplot as plt
-%matplotlib inlin
 
 # mean is unknown in this example
 # variance is known in this example
