@@ -1,8 +1,7 @@
 # Project 3
 
 Experiment: I suppose that you have in your hand a GPS that tells you where you are. However, you also are worried about this thing
-being not accurate so you bought another GPS so you have two GPSs now. One of them was purchased in the United States so uses u.s. satellites. The other one was purchased in Europe so it uses European satellites. Therefore, they are independent
-estimates of where you are. I want to set up the problem where is your location based on the readings that you have the data from those two GPSs
+being not accurate so you bought another GPS so you have two GPSs now. One of them was purchased in the United States so uses u.s. satellites. The other one was purchased in Europe so it uses European satellites. Therefore, they are independent estimates of where you are. I want to set up the problem where is your location based on the readings that you have the data from those two GPSs.
 
 How to run: Python 3 will calculate and plot the data.
 
